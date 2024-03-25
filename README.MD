@@ -1,2 +1,1 @@
-localsf
-sf
+local
